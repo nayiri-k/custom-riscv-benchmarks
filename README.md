@@ -1,3 +1,12 @@
+# Custom RISCV Benchmarks
+
+Modified from [riscv-tests repo](https://github.com/riscv-software-src/riscv-tests/tree/master/benchmarks).
+
+Custom benchmarks are listed in Makefile in `custom_bmarks` list.
+The goal is to create micro-benchmarks for fast testing and
+power/energy characterization of microprocessors.
+
+
 *************************************************************************
 Benchmarks for RISCV Processor
 -------------------------------------------------------------------------
